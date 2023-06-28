@@ -1,0 +1,14 @@
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\bin\Debug\Potato.exe.config
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\bin\Debug\Potato.exe
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\bin\Debug\Potato.pdb
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\bin\Debug\INIFileParser.dll
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\bin\Debug\INIFileParser.pdb
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\obj\Debug\potato_Launcher.csproj.AssemblyReference.cache
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\obj\Debug\potato_Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\obj\Debug\Potato_Launcher.Form1.resources
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\obj\Debug\Potato_Launcher.Properties.Resources.resources
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\obj\Debug\potato_Launcher.csproj.GenerateResource.cache
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\obj\Debug\potato_Launcher.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\obj\Debug\potato_Launcher.csproj.CopyComplete
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\obj\Debug\Potato.exe
+C:\Users\ivanc\Desktop\Projects\improved-octo-potato\potato_Launcher\obj\Debug\Potato.pdb
